@@ -1,15 +1,14 @@
 # statistics
 기초의학통계학 및 실험 (883.016) 수업용
 
-## 정부 공공 데이
+## 정부 공공 데이터
 https://www.data.go.kr/
 ### 서울특별시 관서별 5대 범죄 현황
 https://www.data.go.kr/dataset/3075835/fileData.do
-
 ### 서울특별시 경찰관서별 살인, 폭력 죄종 범죄자 연령대 현황
 https://www.data.go.kr/dataset/3075829/fileData.do
 
-## 서울시 공공 데이타
+## 서울시 공공 데이터
 http://data.seoul.go.kr/
 ### 서울시 주민등록인구 (구별) 통계
 http://data.seoul.go.kr/dataList/datasetView.do?infId=419&srvType=C&serviceKind=2&currentPageNo=1
@@ -39,7 +38,12 @@ http://data.seoul.go.kr/dataList/datasetView.do?infId=173&srvType=S&serviceKind=
 
 ### 서울시 공공도서관 (구별)
 http://data.seoul.go.kr/dataList/datasetView.do?infId=388&srvType=S&serviceKind=2&currentPageNo=1
+### 서울특별시 커피숍 정보
+http://data.seoul.go.kr/dataList/datasetView.do?infId=OA-15237&srvType=S&serviceKind=1&currentPageNo=1
 ### 서울시 자동차등록 (월별/구별)
 http://data.seoul.go.kr/dataList/datasetView.do?infId=255&srvType=S&serviceKind=2&currentPageNo=1
 ### 서울시 교통사고 현황(구별)
 http://data.seoul.go.kr/dataList/datasetView.do?infId=10057&srvType=S&serviceKind=2&currentPageNo=1
+
+## 국토교통부 데이터
+http://stat.molit.go.kr
