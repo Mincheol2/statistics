@@ -91,9 +91,14 @@ cor(seoul)
 ################################################
 # Multiple Linear Regression Example
 ################################################
-fit <- lm(price ~ car + population, data=seoul)
-summary(fit) # show results
-plot(fit)
+fit <- lm(price ~ ., data=seoul)
+anova(fit)
 
-head(tmp)
-class(tmp$car)
+fit2 <- lm(price ~ cctv+car+강간+절도, data=seoul)
+anova(fit2)
+anova(fit2, fit)
+
+fit3 <- lm(price ~ car+강간, data=seoul)
+anova(fit3, fit2, fit)
+
+summary(fit3)
