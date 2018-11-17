@@ -12,7 +12,7 @@
 library(readxl)
 
 # Data 읽어오기 & pre-processing
-data.pop <- "~/data/seoul/서울시 주민등록인구 (구별).xls"
+data.pop <- "~/data/seoul/서울시_주민등록인구_(구별).xls"
 df.pop <- read_excel(data.pop, skip=2)
 head(df.pop)
 df.pop <- df.pop[2:nrow(df.pop), c(2,4)]
